@@ -1,6 +1,7 @@
 # Author: Kenneth Hileman
 # GitHub username: PHTIWringer
 # Date: 04/02/2024
+# NOTE: No ReadMe Using other IDE
 # Description: Asks the user for five numbers and then prints the average.
 
 print("Please enter five numbers.")
@@ -14,5 +15,3 @@ average = (num_1 + num_2 + num_3 + num_4 + num_5) / 5
 
 print("The average of those numbers is:")
 print(average)
-
-print()
